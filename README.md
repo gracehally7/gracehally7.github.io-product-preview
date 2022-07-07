@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://gracehally7/productpreview.github.io)
-- Live Site URL: github.com/gracehally7/productpreview.github.io
+- Live Site URL: https://gracehally7.github.io/gracehally7.github.io-product-preview/
 
 ## My process
 
