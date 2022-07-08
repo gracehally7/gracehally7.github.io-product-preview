@@ -57,6 +57,8 @@ p{
     font-family: "montserrat" ;
     letter-spacing: 1.5px;
 }
+#nd{
+    letter-spacing: 0;
 
 #h{
     display: flex;
